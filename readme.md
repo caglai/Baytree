@@ -38,7 +38,7 @@ Install all the necessary npm packages.
 Runs the server locally at port 5001.
 Database starts at port 27017. You can connect through MongoDB Compass.
 ### Deployment
-The app is deployed using Nginx for server and PM2 for running `npm start` for both frontend and backend in the background. "production" branch has the final tested version that is deployed. For testing purposes, we created an admin with email "admin@bt.com" and multiple users that can found on mentors list from admin account. All of them have the same password: 1234.
+The app is deployed using Nginx for server and PM2 for running `npm start` for both frontend and backend in the background. "production" branch has the final tested version that is deployed. 
 
 ## Build Directions
 ### Frontend
